@@ -1,0 +1,1 @@
+This is a scrapy project for downloading OCR'd text by page from Cayton's Weekly, a Seattle newspaper that ran between 1917 and 1921. The results of the Scrapy CrawlSpider, a url containing the issue date and page number, as well as the text for each page, are found in cayton.csv.
